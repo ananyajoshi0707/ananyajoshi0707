@@ -20,11 +20,10 @@
   *AI-Powered Skin Analyzer* using Google Gemini API to provide condition analysis and skincare suggestions.  
   _Tech: Django, Bootstrap, JavaScript, Google Gemini API, MySQL_
 
-- 👗 **ApparelIQ**  
-  A deep learning solution for garment attribute detection (sleeve, collar, color, pattern) using CNN on DeepFashion dataset.  
-  _Tech: Python, TensorFlow, Keras, Pandas, NumPy_
 
----
+-🔬	**ToneMail: AI Email Assistant** – Smart Multilingual Email Generation Tool – Developed an intelligent AI-powered email assistant that generates professional, friendly, or custom-tone emails using Large Language Models like Google Gemini. The app supports multilingual output (30+ global languages), live tone previews with descriptions, and smart features like editable body, emoji insertion, and resume attachment simulation. Includes text-to-speech playback, download as .txt/.eml, and reminder alerts. 
+•	Tech: Next.js (React.js), TypeScript, FastAPI (Python), Google Gemini API, Tailwind CSS, JavaScript (Web Speech API), MongoDB
+
 
 ### 🛠️ Tech Stack
 
