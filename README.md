@@ -21,7 +21,7 @@
   _Tech: Django, Bootstrap, JavaScript, Google Gemini API, MySQL_
 
 
--🔬	**ToneMail: AI Email Assistant** – Smart Multilingual Email Generation Tool – Developed an intelligent AI-powered email assistant that generates professional, friendly, or custom-tone emails using Large Language Models like Google Gemini. The app supports multilingual output (30+ global languages), live tone previews with descriptions, and smart features like editable body, emoji insertion, and resume attachment simulation. Includes text-to-speech playback, download as .txt/.eml, and reminder alerts. 
+-🔬	**ToneMail: AI Email Assistant(https://github.com/ananyajoshi0707/email-ai-assistant.git)**  – Smart Multilingual Email Generation Tool – Developed an intelligent AI-powered email assistant that generates professional, friendly, or custom-tone emails using Large Language Models like Google Gemini. The app supports multilingual output (30+ global languages), live tone previews with descriptions, and smart features like editable body, emoji insertion, and resume attachment simulation. Includes text-to-speech playback, download as .txt/.eml, and reminder alerts. 
 •	Tech: Next.js (React.js), TypeScript, FastAPI (Python), Google Gemini API, Tailwind CSS, JavaScript (Web Speech API), MongoDB
 
 
