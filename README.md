@@ -16,7 +16,7 @@
 
 ### 🚀 Projects
 
-- 🔬 **[Twachic](https://github.com/ananyajoshi0707/skin_health)**  
+- 🔬 **[Twachic](https://github.com/ananyajoshi0707/twachic)**  
   *AI-Powered Skin Analyzer* using Google Gemini API to provide condition analysis and skincare suggestions.  
   _Tech: Django, Bootstrap, JavaScript, Google Gemini API, MySQL_
 
