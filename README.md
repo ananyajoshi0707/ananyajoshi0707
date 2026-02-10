@@ -74,7 +74,7 @@
 - 📧 Email: **ananyajoshi0707@gmail.com**  
 - 💼 LinkedIn: [ananya-joshi0707](https://linkedin.com/in/ananya-joshi0707)  
 - 💻 GitHub: [ananyajoshi0707](https://github.com/ananyajoshi0707)
-- 🐦 X (Twitter): [@ananya_6427](https://x.com/ananya_6427))
+- 🐦 X (Twitter): [@ananya_6427](https://x.com/ananya_6427)
 
 ---
 
