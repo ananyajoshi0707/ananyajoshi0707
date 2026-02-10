@@ -19,8 +19,8 @@
 ### 🧑‍💼 Professional Experience
 
 **AI Intern — Infosys Springboard** *(Remote)*  
-- Working on AI-powered applications involving **natural language processing and backend microservices**.  
-- Building scalable services using **FastAPI and Node.js**, integrating LLM-based pipelines.  
+- Worked on AI-powered applications involving **natural language processing and backend microservices**.  
+- Built scalable services using **FastAPI and Node.js**, integrating LLM-based pipelines.  
 - Experience with **Kafka, PostgreSQL, Redis**, and cloud storage workflows.  
 - Exposure to **CI/CD pipelines, AWS services**, and collaboration with frontend teams.
 
