@@ -1,69 +1,88 @@
 <h1 align="center">Hi 👋, I'm Ananya Joshi</h1>
-<h3 align="center">B.Tech IT | AI Enthusiast | Full-Stack Developer</h3>
-
-
+<h3 align="center">Backend Engineer (AI-Focused) | B.Tech Information Technology</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Information Technology** at Goel Institute of Technology & Management, Lucknow.  
-- 🧠 Passionate about **AI, Cloud Computing, and Web Development**.  
-- 🌟 Strong foundation in Python, TensorFlow, Django, MySQL, and Tailwind CSS.  
-- 📚 Actively upskilling through certifications and hands-on projects.  
+- 🎓 B.Tech student in **Information Technology** with a strong academic record (CGPA: 8.38) 
+- 💻 **Backend Engineer with an AI focus**, experienced in building scalable APIs and integrating AI/ML models into real-world applications.  
+- 🧠 Strong interest in **AI-driven backend systems**, natural language processing, and intelligent automation.  
+- ⚙️ Hands-on experience with **FastAPI, Django, Flask, REST APIs, and microservices architecture**.  
+- 🌱 Actively learning and applying modern backend, AI, and cloud practices through internships and certifications.
+- ✍️ Active on **X (Twitter)** with **1,700+ followers**, where I post about tech, AI, life stuff and random things I find interesting or whatever’s on my mind.
+
+ 
 
 ---
 
-### 🚀 Projects
+### 🧑‍💼 Professional Experience
 
-- 🔬 **[Twachic](https://github.com/ananyajoshi0707/twachic)**  
-  *AI-Powered Skin Analyzer* using Google Gemini API to provide condition analysis and skincare suggestions.  
-  _Tech: Django, Bootstrap, JavaScript, Google Gemini API, MySQL_
+**AI Intern — Infosys Springboard** *(Remote)*  
+- Working on AI-powered applications involving **natural language processing and backend microservices**.  
+- Building scalable services using **FastAPI and Node.js**, integrating LLM-based pipelines.  
+- Experience with **Kafka, PostgreSQL, Redis**, and cloud storage workflows.  
+- Exposure to **CI/CD pipelines, AWS services**, and collaboration with frontend teams.
 
+**Backend Intern — Uttar Pradesh Metro Rail Corporation (UPMRC)** *(Lucknow)*  
+- Developed backend modules for an **inter-departmental issue tracking system**.  
+- Implemented **role-based access, authentication, and status management**.  
+- Designed scalable backend logic using **Django ORM and modular views** for efficient coordination.
 
--🔬	**[IntelliMail AI Email Assistant](https://github.com/ananyajoshi0707/email-ai-assistant.git)**  – Smart Multilingual Email Generation Tool – Developed an intelligent AI-powered email assistant that generates professional, friendly, or custom-tone emails using Large Language Models like Google Gemini. The app supports multilingual output (30+ global languages), live tone previews with descriptions, and smart features like editable body, emoji insertion, and resume attachment simulation. Includes text-to-speech playback, download as .txt/.eml, and reminder alerts. 
-•	Tech: Next.js (React.js), TypeScript, FastAPI (Python), Google Gemini API, Tailwind CSS, JavaScript (Web Speech API), MongoDB
+---
 
+### 🛠️ Technical Skills
 
-### 🛠️ Tech Stack
+**Programming & Backend**  
+- Python, Django, Flask, FastAPI  
+- REST APIs, Microservices Architecture  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+**Machine Learning & AI**  
+- Scikit-learn, PyTorch  
+- Autoencoders, Isolation Forest  
+- Large Language Models (Google Gemini API)
+
+**Databases & Streaming**  
+- MySQL, MongoDB  
+- PostgreSQL, Apache Kafka  
+- NumPy, Pandas  
+
+**DevOps & Tools**  
+- Git, GitHub  
+- Docker  
+- Grafana, Jupyter Notebooks  
+
+**Frontend (Working Knowledge)**  
+- React.js, Next.js  
+- Bootstrap, Tailwind CSS  
 
 ---
 
 ### 🏅 Achievements & Certifications
 
-- 🥈 **Elite + Silver Medal**, NPTEL - Google Cloud Computing Foundations  
-- 🧠 **Machine Learning with Python** – IBM  
-- 🚀 **Python for Beginners** – Scaler  
-- 🥉 **Bronze**, Inno Quest Quiz – AKTU Zonals  
-- 🥈 **Silver**, Turbo AI – College Competition  
-- 👑 **Miss Rhythm Divine 2023** – College Fresher Queen  
-- 🎓 **Head Girl** – St. Anthony’s School (2021-22)
+- 🏆 **Final Year Project selected under the CSTUP (Council of Science & Technology, Uttar Pradesh) Project Grant Scheme**, making me eligible for associated monetary benefits.  
+- 🥈 **Elite + Silver Medal** — Google Cloud Computing Foundations (NPTEL).  
+- 🧠 **Machine Learning with Python** — IBM.  
+- 🚀 **Introduction to Generative AI** — Google Cloud Skill Boost.  
+- 🎓 **Head Girl** — St. Anthony’s School, Barabanki (2021–22).  
+- 🌟 **Unstop Campus Ambassador** — Represented and engaged 500+ students in outreach programs.
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect With Me
 
-- 📧 Email: **ananyajoshi2004@gmail.com**  
+- 📧 Email: **ananyajoshi0707@gmail.com**  
 - 💼 LinkedIn: [ananya-joshi0707](https://linkedin.com/in/ananya-joshi0707)  
-- 💻 GitHub: [AnanyaJoshi0707](https://github.com/ananyajoshi0707)
+- 💻 GitHub: [ananyajoshi0707](https://github.com/ananyajoshi0707)
+- 🐦 X (Twitter): [@ananya_6427](https://x.com/ananya_6427))
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ananyajoshi0707&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyajoshi0707&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ananyajoshi0707&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
